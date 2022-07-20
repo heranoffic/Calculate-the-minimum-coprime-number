@@ -4,8 +4,7 @@
 示例：
 ```python
 from 计算最小互质数 import fct1
-
 a=int(input("a="))
-
 fct1(a)
+>>> return a的最小互质数
 ```
